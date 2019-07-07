@@ -1,0 +1,37 @@
+Unico (1,0) '9'
+Unico (1,2) '1'
+Unico (5,1) '3'
+Exclusivo (0,5) '9' Fila
+Exclusivo (2,2) '5' Fila
+Exclusivo (2,8) '8' Fila
+Exclusivo (2,7) '4' Fila
+Exclusivo (5,4) '8' Columna
+Exclusivo (0,0) '8' Columna
+Unico (0,2) '4'
+Unico (7,2) '3'
+Unico (8,2) '7'
+Unico (8,0) '4'
+Unico (6,1) '5'
+Exclusivo (4,2) '8' Fila
+Exclusivo (7,3) '8' Fila
+Exclusivo (6,3) '4' Columna
+Exclusivo (7,6) '4' Fila
+Descubiertos [(2,3),(2,5)] "16" [(0,3)]
+Descubiertos [(0,3),(1,3)] "37" [(3,3),(4,3),(5,3)]
+Exclusivo (5,0) '7' Fila
+Unico (3,0) '6'
+Exclusivo (8,4) '6' Columna
+Unico (7,5) '5'
+Unico (7,7) '6'
+Exclusivo (0,6) '6' Columna
+Encerrado "Columna-Region" (1,1) 3 '2' [(3,5),(4,5)]
+
+8 2 4 . 5 9 6 . .
+9 6 1 . 4 8 . . 5
+3 7 5 . 2 . 9 4 8
+6 . . . . . . 8 .
+5 . 8 . 9 . 7 . .
+7 3 . . 8 4 1 . .
+1 5 6 4 . . 8 . .
+2 9 3 8 1 5 4 6 7
+4 8 7 9 6 . . . .

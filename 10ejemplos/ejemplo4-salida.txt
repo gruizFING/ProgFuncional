@@ -1,0 +1,47 @@
+Unico (3,5) '5'
+Unico (5,0) '3'
+Unico (1,0) '9'
+Unico (2,0) '7'
+Unico (5,5) '9'
+Unico (4,5) '3'
+Unico (6,5) '6'
+Unico (6,1) '7'
+Exclusivo (0,4) '7' Columna
+Exclusivo (2,4) '9' Columna
+Exclusivo (2,7) '5' Columna
+Exclusivo (5,2) '1' Fila
+Exclusivo (5,8) '7' Columna
+Unico (5,3) '2'
+Unico (4,3) '4'
+Unico (3,3) '7'
+Unico (5,6) '8'
+Unico (6,3) '5'
+Unico (8,4) '3'
+Unico (1,4) '5'
+Unico (7,4) '2'
+Unico (8,7) '6'
+Unico (8,1) '8'
+Unico (1,1) '3'
+Unico (1,3) '8'
+Unico (0,5) '1'
+Unico (0,3) '6'
+Unico (2,3) '3'
+Unico (7,3) '1'
+Unico (7,5) '8'
+Unico (8,2) '5'
+Exclusivo (2,1) '1' Fila
+Exclusivo (7,2) '9' Columna
+Unico (7,6) '7'
+Unico (7,7) '3'
+Exclusivo (6,6) '9' Columna
+Unico (6,8) '2'
+
+5 . . 6 7 1 3 . .
+9 3 6 8 5 2 4 7 1
+7 1 . 3 9 4 . 5 .
+. 9 . 7 8 5 . 1 3
+8 . 7 4 1 3 5 . .
+3 5 1 2 6 9 8 4 7
+1 7 3 5 4 6 9 8 2
+. . 9 1 2 8 7 3 5
+2 8 5 9 3 7 1 6 4

@@ -1,0 +1,25 @@
+Unico (7,0) '8'
+Unico (7,7) '5'
+Exclusivo (2,5) '7' Fila
+Exclusivo (2,6) '6' Fila
+Exclusivo (7,3) '7' Fila
+Unico (8,3) '3'
+Exclusivo (3,2) '7' Fila
+Exclusivo (5,4) '7' Fila
+Exclusivo (5,5) '3' Fila
+Exclusivo (5,0) '5' Fila
+Exclusivo (2,1) '5' Fila
+Exclusivo (6,6) '3' Columna
+Exclusivo (8,8) '7' Fila
+Descubiertos [(7,1),(7,2)] "36" [(6,1),(6,2)]
+Escondidos [(3,8),(4,8)] "59"
+
+6 . . 9 . . 7 . .
+. 7 . . . . 5 9 .
+. 5 . 8 2 7 6 . .
+. . 7 . 6 . . 3 .
+3 . . . . . . 7 .
+5 9 . 1 7 3 . . 6
+7 . . . . . 3 . .
+8 . . 7 4 2 9 5 1
+. . 5 3 . . . 6 7
